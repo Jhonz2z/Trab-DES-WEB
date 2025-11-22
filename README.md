@@ -1,4 +1,4 @@
-#Salão da Netinha
+# Salão da Netinha
 
 Projeto desenvolvido para a disciplina de Desenvolvimento Web — aplicação front-end em HTML, CSS e JavaScript que simula um site de salão com catálogo de serviços e sistema de agendamento local.
 
